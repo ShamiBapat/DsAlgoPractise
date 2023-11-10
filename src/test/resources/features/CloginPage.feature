@@ -1,6 +1,7 @@
 Feature: Login page feature
   Registered user should be able to login
-  
+  Verfiy all the fields in the login page
+  Data driven testing using --- data table, excel sheet
 
   Scenario: Validate Register link on login page
     Given user is on login page
